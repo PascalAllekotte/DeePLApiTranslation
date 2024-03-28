@@ -21,7 +21,7 @@ class TranslationViewModel : ViewModel() {
 
     fun translateText(text: String) {
         try {
-            val request = DeeplRequest(target_lang = "DE", text = listOf(text))
+            val request = DeeplRequest(target_lang = "EN", text = listOf(text))
             repository.translateText(request).enqueue(object : Callback<DeeplResponse> {
                 override fun onResponse(call: Call<DeeplResponse>, response: Response<DeeplResponse>) {
                     if (response.isSuccessful) {
