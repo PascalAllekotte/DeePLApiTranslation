@@ -1,3 +1,5 @@
+Documentation https://developers.deepl.com/docs/getting-started/your-first-api-request
+
 # My Translation App
 
 This Android app demonstrates the integration of the DeepL API for text translation and uses Retrofit for network requests, Moshi for JSON processing, ViewBinding for UI interactions, and follows the MVVM design pattern.
@@ -47,8 +49,4 @@ Diese Android-App demonstriert die Integration der DeepL API zur Textübersetzun
 2. **Projekt einrichten**: Öffnen Sie das Projekt in Android Studio und fügen Sie Ihren DeepL API-Schlüssel hinzu.
 3. **App testen**: Führen Sie die App auf einem Emulator oder einem realen Gerät aus.
 
-## Beitrag
 
-Ihre Beiträge sind willkommen! Erstellen Sie Issues oder senden Sie Pull-Requests, um die App zu verbessern oder zu erweitern.
-
-Genießen Sie das Entdecken und Erweitern dieser Anwendung, die die Möglichkeiten der DeepL API in der Android-Entwicklung zeigt!
