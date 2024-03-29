@@ -4,4 +4,4 @@ package com.example.deeplapitranslation.utils
 
 
 const val BASE_URL = " https://api-free.deepl.com"
-const val DEEPL_AUTH_KEY = "ur api ki deepl"
+const val DEEPL_AUTH_KEY = "your deepl api key here"
