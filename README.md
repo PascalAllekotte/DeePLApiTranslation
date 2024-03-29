@@ -4,6 +4,10 @@ Documentation https://developers.deepl.com/docs/getting-started/your-first-api-r
 
 This Android app demonstrates the integration of the DeepL API for text translation and uses Retrofit for network requests, Moshi for JSON processing, ViewBinding for UI interactions, and follows the MVVM design pattern.
 
+<img width="359" alt="Bildschirmfoto 2024-03-29 um 19 02 14" src="https://github.com/PascalAllekotte/DeePLApiTranslation/assets/148057928/0f2b3315-928d-4e3b-b7ba-b1ae75440db8">
+<img width="359" alt="Bildschirmfoto 2024-03-29 um 19 02 40" src="https://github.com/PascalAllekotte/DeePLApiTranslation/assets/148057928/e23aa597-af2e-450b-85b2-b3586f1337fc">
+
+
 ## Features
 
 - **Text Translation**: Allows translating text into multiple languages using the DeepL API.
